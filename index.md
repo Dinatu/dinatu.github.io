@@ -1,4 +1,7 @@
 ## Dina Turpeinen web-tehtävä
+Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) avulla.
+&nbsp;
+&nbsp;
 
 ### Italic
 Writing in Markdown is _not_ that hard!
@@ -139,7 +142,5 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
-&nbsp;
-&nbsp;
 
-Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) avulla.
+
