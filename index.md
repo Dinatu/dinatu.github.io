@@ -20,7 +20,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ----------------------------------------------------------------------------------------------------------
 ### Headers
-Headers are written with a hash mark. There are many size of headers in Markdown. 
+Headers are written with hash marks. There are many size of headers in Markdown. 
 
 &nbsp;
 &nbsp;
