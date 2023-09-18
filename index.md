@@ -1,27 +1,29 @@
 ## Dina Turpeinen web-tehtävä
-Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) avulla.
-&nbsp;
-&nbsp;
 
-### Italic
+Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) avulla.
+
+&nbsp;
+### Italic and bold
+
+#### Italic
 Writing in Markdown is _not_ that hard!
 &nbsp;
 
-### Bold
+#### Bold
 I **will** complete these lessons!
 &nbsp;
 
-### Italic and bold 
+#### Both italic and bold
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 &nbsp;
+&nbsp;
 
 ### Headers
-Headers are written with a hash mark in Markdown. 
+Headers are written with a hash mark in Markdown. There are many size of headers in Markdown. 
 
-&nbsp;
 # Header one
 ## Header two
 ### Header three
