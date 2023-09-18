@@ -17,9 +17,10 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 &nbsp;
-&nbsp;
 
 ### Headers
+Headers are written with a hash mark in Markdown. 
+
 &nbsp;
 # Header one
 ## Header two
