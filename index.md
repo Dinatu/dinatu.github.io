@@ -1,6 +1,6 @@
 ## Dina Turpeinen web-tehtävä
 
-Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) avulla.
+Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) vastausten pohjalta.
 
 &nbsp;
 ### Italic and bold
