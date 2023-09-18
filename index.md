@@ -3,7 +3,6 @@
 Tämän sivun sisältö on luotu [Markdowntutorialin](https://www.markdowntutorial.com/) vastausten pohjalta.
 
 -----------------------------------------------------------------------------------------------------------
-&nbsp;
 ### Italic and bold
 
 #### Italic
@@ -19,12 +18,12 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
------------------------------------------------------------------------------------------------------------
-&nbsp;
-&nbsp;
-
+----------------------------------------------------------------------------------------------------------
 ### Headers
 Headers are written with a hash mark. There are many size of headers in Markdown. 
+
+&nbsp;
+&nbsp;
 
 # Header one
 ## Header two
@@ -41,7 +40,6 @@ Headers are written with a hash mark. There are many size of headers in Markdown
 Here's some words about the book _One Hundred Years..._.
 
 -----------------------------------------------------------------------------------------------------------
-&nbsp;
 ### Links
 
 [Search for it.](https://www.google.com)
@@ -50,8 +48,6 @@ Here's some words about the book _One Hundred Years..._.
 
 
 #### The Latest News from [the BBC](https://www.bbc.com/news)
-
-
 
 Do you want to [see something fun][a fun place]?
 
@@ -134,7 +130,6 @@ I read this interesting quote the other day:
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 -----------------------------------------------------------------------------------------------------------
-&nbsp;
 ### Paragraphs
 
    We pictured the meek mild creatures where  
